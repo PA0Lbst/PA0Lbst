@@ -5,5 +5,5 @@ Engineering student in IT
 ![GitHub followers](https://img.shields.io/github/followers/PA0Lbst?label=Followers)
 ![GitHub stars](https://img.shields.io/github/stars/PA0Lbst?label=Stars)
 
-Vraiment pas à l'aise avec Git
+Vraiment pas à l'aise avec Git<br/>
 -# L'égo est présent sur ce profil
