@@ -6,4 +6,4 @@ Engineering student in IT
 ![GitHub stars](https://img.shields.io/github/stars/PA0Lbst?label=Stars)
 
 Vraiment pas à l'aise avec Git<br/>
--# L'égo est présent sur ce profil
+<sub>L'égo est présent sur ce profil</sub>
